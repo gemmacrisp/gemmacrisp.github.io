@@ -1,0 +1,76 @@
+header {
+    text-align: center;
+}
+a {
+    color: black;
+}
+ul {
+    padding: 10px;
+}
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+body {
+  text-align: center;
+  background-image: url("bryan-garces-LMiXuFec-rY-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+  color: black;
+  font-family: 'Calibri';
+  padding: 10px;
+  padding-top: 40px;
+}
+
+.card {
+background-color: white;
+max-width: 500px;
+margin: auto;
+padding: 20px;
+}
+
+
+h1 {
+font-family: 'Calibri', 'Trebuchet MS', sans-serif, serif;
+text-align: center;
+font-size: 30px;
+}
+h1 a {
+    text-decoration: none;
+}
+
+h2 {
+font-family: 'Calibri', 'Trebuchet MS', sans-serif, serif;
+text-align: center;
+}
+
+p {
+font-family: 'Calibri', "Trebuchet MS", sans-serif;
+text-align: center;
+}
+
+a {
+font-family: 'Calibri', "Trebuchet MS", sans-serif;
+text-align: center;
+}
+p {
+font-size: 18px;
+}
+input {
+border: 1;
+padding: 10px;
+font-size: 14px;
+}
+input[type="submit"] {
+background:black;
+color:white;
+cursor: pointer;
+}
+input[type="submit"]:hover {
+    color: pink;
+}
+
+.links a img {
+    width: 30px;
+    margin: 10px;
+}
